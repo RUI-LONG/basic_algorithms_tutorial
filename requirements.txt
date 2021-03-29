@@ -69,7 +69,7 @@ pycparser==2.19
 PyDispatcher==2.0.5
 pydotplus==2.0.2
 pyee==7.0.1
-Pygments==2.5.2
+Pygments==2.7.4
 PyHamcrest==2.0.0
 pyOpenSSL==19.1.0
 pyparsing==2.4.6
